@@ -1,0 +1,17 @@
+#user {
+  width: 80%;
+  margin-top: 3%;
+  margin-left: 10%;
+}
+#searchButton {
+  margin-left: 40%;
+  margin-top: 0.5%;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 10%;
+}
+.jumbotron {
+  margin: 3%;
+}
