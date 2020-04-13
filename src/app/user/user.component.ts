@@ -30,7 +30,7 @@ export class UserComponent implements OnInit {
         "https://api.github.com/users/" +
           rep.username +
           "?access_token=" +
-          "7377647d064385d967e03bfbffdc62983c19341a"
+          "d930f3ac56726110d5a0d0b9c3891fa300925fdb"
       )
       .subscribe(data => {
         this.repos.login = data.login;
