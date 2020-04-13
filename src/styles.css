@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
 imges {
-  background-color: black;
-  color: whitesmoke;
+  background-color: brown;
+  color: wheat;
   font-size: 48px;
   text-align: center;
   height: 150px;
@@ -16,5 +16,5 @@ img {
   margin-top: 2%;
 }
 body {
-  background-color: beige;
+  background-color: wheat;
 }
